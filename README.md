@@ -34,7 +34,7 @@ This project utilizes Power BI to analyze a bank customer churn dataset. The ana
     ---Credit Card Type: Type of credit card held by the customer.
     ---Points Earned by Credit Card: Points accumulated using the credit card.
 
-3. Analytical Process
+**Analytical Process**
    
    **Data Preparation (ETL)**
 
